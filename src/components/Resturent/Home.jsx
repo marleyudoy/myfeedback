@@ -1,14 +1,15 @@
-import { getAllData, getDataByRating } from "../../data/data"
-import Category from "./Category"
-import LatestTrend from "./LatestTrend"
+import Category from "./Category";
+import Feedback from "./Feedback";
+import LatestTrend from "./LatestTrend";
 
 function Home() {
   return (
     <>
-      <Category/>
+      <Category />
       <LatestTrend />
+      <Feedback />
     </>
-  )
+  );
 }
 
-export default Home
+export default Home;

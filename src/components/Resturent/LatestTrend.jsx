@@ -1,3 +1,4 @@
+import Button from "../../Golbal/Button";
 import Card from "../../Golbal/Card";
 import { getAllData } from "../../data/data";
 
@@ -13,6 +14,12 @@ function LatestTrend() {
         <div className="py-5 mt-3 self-center grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {resturentData &&
             resturentData.map((data) => <Card key={data.id} data={data} />)}
+        </div>
+        <div>
+          <h2 className="text-[18px] md:text-[22px] font-Lexend py-b text-center font-bold">
+            Discover more cool restaurants
+          </h2>
+          <Button className="bg-primary_color text-white m-auto rounded-full">Show more</Button>
         </div>
       </div>
     </section>
