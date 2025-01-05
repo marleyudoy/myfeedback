@@ -62,6 +62,27 @@ const navbarItems = [
   },
 ];
 
-export {
-  navbarItems
-}
+const footerItems = [
+  {
+    title: "About",
+    items: ["About MyFeedback", "Investor Relations"],
+  },
+  {
+    title: "MyFeedback",
+    items: [
+      "MyFeedback for business",
+      "Collections",
+      "Talk",
+      "Events",
+      "MyFeedback blog",
+      "Support",
+      "Developers",
+    ],
+  },
+  {
+    title: "Languages",
+    items: ["English"],
+  },
+];
+
+export { navbarItems, footerItems };
