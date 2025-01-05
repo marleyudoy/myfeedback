@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Onest:wght@100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .heading {
+    @apply text-[28px] leading-[36.5px] md:text-[34px] md:leading-[42.5px] font-bold;
+  }
+  .sub_hading {
+    @apply text-[18px] leading-[22px] md:text-[21px] md:leading-[24.61px] font-semibold;
+  }
+  .paragraph_text{
+    @apply text-[14px] leading-[15px] md:text-[16px] md:leading-[18.75px]
+  }
+}
