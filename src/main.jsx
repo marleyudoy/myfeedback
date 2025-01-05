@@ -3,9 +3,9 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
 import { RouterProvider, createBrowserRouter } from "react-router";
-import SearchBar from "./components/SearchBar.jsx";
 import Home from "./components/Resturent/Home.jsx";
 import ResturentDetails from "./Golbal/ResturentDetails.jsx";
+import SearchContent from "./components/SearchContent.jsx";
 
 const router = createBrowserRouter([
   {
@@ -18,7 +18,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/search",
-        element: <SearchBar />,
+        element: <SearchContent/>
       },
       {
         path:'home/:id',
