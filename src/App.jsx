@@ -1,10 +1,16 @@
+import { Outlet } from "react-router"
+import Navbar from "./components/Navbar"
+import Footer from "./components/Footer"
+
 
 function App() {
 
 
   return (
     <>
-    <h1 className='text-center text-4xl font-bold'>hello</h1>
+    <Navbar />
+    <Outlet />
+    <Footer />
     </>
   )
 }

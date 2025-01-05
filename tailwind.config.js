@@ -2,6 +2,18 @@
 export default {
   content: ["index.html", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
+    container: {
+      center:true,
+      padding:{
+        DEAFULT:"1rem"
+      }
+    },
+    screens:{
+      sm:"560px",
+      md:"768px",
+      lg:"1024px",
+      xl:"1240px"
+    },
     extend: {
       colors: {
         primary_color: "#1677BD",
