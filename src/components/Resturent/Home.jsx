@@ -1,3 +1,4 @@
+import Activite from "./Activite";
 import BestResturent from "./BestResturent";
 import Category from "./Category";
 import Feedback from "./Feedback";
@@ -10,6 +11,7 @@ function Home() {
       <BestResturent />
       <LatestTrend />
       <Feedback />
+      <Activite />
     </>
   );
 }

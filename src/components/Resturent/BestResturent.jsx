@@ -1,11 +1,7 @@
-import React from "react";
 import { getDataByRating } from "../../data/data";
-import { Swiper, SwiperSlide } from "swiper/react";
-import arrowleft from "../../assets/icons/arrowleft.png";
-import arrowright from "../../assets/icons/arrowright.png";
+import { SwiperSlide } from "swiper/react";
 import Card from "../../Golbal/Card";
-import "swiper/css";
-import { Autoplay, Navigation } from "swiper/modules";
+import SwipperSlider from "../../Golbal/SwipperSlider";
 
 function BestResturent() {
   const resturentData = getDataByRating(5);
@@ -16,17 +12,10 @@ function BestResturent() {
         <h1 className="text-[28px] md:text-[32px] font-Lexend font-bold text-white">
           Find the best restaurant ratings below
         </h1>
-
-        <Swiper
-          autoplay={{
-            delay: 2500,
-            disableOnInteraction: false,
-          }}
-          modules={[Navigation,Autoplay]}
-          slidesPerView={1}
-          spaceBetween={40}
-          loop={true}
-          breakpoints={{
+        <SwipperSlider
+          arrowLeft={true}
+          arrowRight={true}
+          breakPoint={{
             540: {
               slidesPerView: 2,
               spaceBetween: 10,
@@ -44,11 +33,6 @@ function BestResturent() {
               spaceBetween: 40,
             },
           }}
-          navigation={{
-            prevEl: ".prev",
-            nextEl: ".next",
-          }}
-          className="mt-6"
         >
           {resturentData &&
             resturentData.map((data) => (
@@ -56,15 +40,7 @@ function BestResturent() {
                 <Card data={data} />
               </SwiperSlide>
             ))}
-        </Swiper>
-        <div className="absolute bottom-[50%] translate-y-[50%] px-3 right-0 flex justify-between w-[100%] z-10">
-          <button className="prev bg-white px-2 py-2 rounded-full">
-            <img src={arrowleft} alt="" />
-          </button>
-          <button className="next bg-white px-2 py-2 rounded-full">
-            <img src={arrowright} alt="" />
-          </button>
-        </div>
+        </SwipperSlider>
       </div>
     </section>
   );

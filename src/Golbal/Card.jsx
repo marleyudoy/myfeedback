@@ -1,22 +1,16 @@
 import { useNavigate } from "react-router";
 import star from "../assets/icons/star.png";
+import Star from "./Star";
 
 function Card({ data }) {
   const navigate = useNavigate();
-  const getRivew = (value) => {
-    const a = [];
-    for (let i = 0; i < value; i++) {
-      a.push(<img key={i} className="w-[16px] h-[16px]" src={star} />);
-    }
-    return a;
-  };
   return (
     <div
       onClick={() => {
-        navigate(`/home/${data.id}`,{state:data});
+        navigate(`/home/${data.id}`, { state: data });
       }}
       key={data.id}
-      className="bg-[#F8F8F8] overflow-hidden pt-1 sm:pt-0 rounded-lg flex flex-col items-center"
+      className="bg-[#F8F8F8] hover:cursor-pointer overflow-hidden pt-1 sm:pt-0 rounded-lg flex flex-col items-center"
     >
       <div>
         <img src={data.thumbnail} alt="" />
@@ -30,7 +24,7 @@ function Card({ data }) {
         </p>
         <div>
           <div className="flex mt-4 pb-1 gap-1">
-            {getRivew(Math.floor(data.ratting.rate))}
+            <Star starCount={data.ratting.rate} />
             <p className="ml-2 text-secondary_color2">
               <span className="text-sm  text-black font-extrabold">
                 {data.ratting.rate}{" "}
