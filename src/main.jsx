@@ -4,8 +4,8 @@ import "./index.css";
 import App from "./App.jsx";
 import { RouterProvider, createBrowserRouter } from "react-router";
 import Home from "./components/Home/Home.jsx";
-import ResturentDetails from "./Golbal/ResturentDetails.jsx";
 import SearchContent from "./components/SearchContent.jsx";
+import ResturentDetails from "./components/Home/resturentDetailsPage/ResturentDetails.jsx";
 
 const router = createBrowserRouter([
   {

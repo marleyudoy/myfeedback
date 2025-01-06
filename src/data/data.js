@@ -44,7 +44,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -60,7 +60,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -70,7 +70,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -80,7 +80,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -110,7 +110,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -120,7 +120,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -130,7 +130,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -153,7 +153,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -169,7 +169,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -179,7 +179,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -189,7 +189,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -219,7 +219,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -229,7 +229,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -239,7 +239,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -262,7 +262,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -278,7 +278,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -288,7 +288,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -298,7 +298,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -328,7 +328,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -338,7 +338,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -348,7 +348,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -371,7 +371,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -387,7 +387,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -397,7 +397,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -407,7 +407,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -437,7 +437,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -447,7 +447,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -457,7 +457,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -480,7 +480,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -496,7 +496,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -506,7 +506,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -516,7 +516,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -546,7 +546,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -556,7 +556,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -566,7 +566,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -589,7 +589,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -605,7 +605,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -615,7 +615,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -625,7 +625,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -655,7 +655,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -665,7 +665,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -675,7 +675,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -698,7 +698,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -714,7 +714,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -724,7 +724,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -734,7 +734,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -764,7 +764,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -774,7 +774,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -784,7 +784,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -807,7 +807,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -823,7 +823,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -833,7 +833,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -843,7 +843,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -873,7 +873,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -883,7 +883,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -893,7 +893,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -916,7 +916,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -932,7 +932,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -942,7 +942,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -952,7 +952,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -982,7 +982,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -992,7 +992,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1002,7 +1002,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1025,7 +1025,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -1041,7 +1041,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1051,7 +1051,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1061,7 +1061,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1091,7 +1091,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1101,7 +1101,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1111,7 +1111,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1134,7 +1134,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -1150,7 +1150,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1160,7 +1160,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1170,7 +1170,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1200,7 +1200,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1210,7 +1210,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1220,7 +1220,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1243,7 +1243,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -1259,7 +1259,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1269,7 +1269,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1279,7 +1279,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1309,7 +1309,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1319,7 +1319,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1329,7 +1329,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1352,7 +1352,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -1368,7 +1368,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1378,7 +1378,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1388,7 +1388,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1418,7 +1418,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1428,7 +1428,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1438,7 +1438,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1461,7 +1461,7 @@ const resturentList = [
     web: "www.bellaitalia.com",
     contact: [facebook, tiktok, instagram, whatsapp],
     images: [img3, img1, img2, img4, img5],
-    review: [
+    reviews: [
       {
         userName: "Wei Jie",
         description:
@@ -1477,7 +1477,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1487,7 +1487,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Takashimaya",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1497,7 +1497,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 2,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1527,7 +1527,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1537,7 +1537,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 3,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
@@ -1547,7 +1547,7 @@ const resturentList = [
         description:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
         userLocation: "Singapore, Orchad boulevard",
-        rat: 5,
+        rat: 4,
         date: "29/11/2023",
         message:
           "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
