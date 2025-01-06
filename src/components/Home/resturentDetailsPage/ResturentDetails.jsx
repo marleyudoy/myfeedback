@@ -4,6 +4,7 @@ import DetailsHero from "./DetailsHero";
 import ImageGorup from "./ImageGorup";
 import MoreInfoSection from "./MoreInfoSection";
 import Review from "./Review";
+import Discover from "./Discover";
 
 function ResturentDetails() {
   const { state } = useLocation();
@@ -18,6 +19,7 @@ function ResturentDetails() {
         <ImageGorup images={state.images} />
         <MoreInfoSection state={state} />
         <Review allReview={state.reviews} />
+        <Discover />
       </section>
     </>
   );

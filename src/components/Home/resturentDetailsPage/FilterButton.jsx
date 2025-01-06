@@ -1,5 +1,6 @@
 import star from "../../../assets/icons/star.png";
 
+
 function FilterButton({ onSearch }) {
   return (
     <div className="bg-white absolute  w-[200px] p-3 left-0 top-[50px] shadow-[1px_10px_10px_rgba(0,0,0,0.4)] rounded-xl text-black">
