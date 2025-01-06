@@ -14,4 +14,7 @@
   .paragraph_text{
     @apply text-[14px] leading-[15px] md:text-[16px] md:leading-[18.75px]
   }
+  .center_text{
+    @apply text-center md:text-start
+  }
 }

@@ -6,7 +6,7 @@ function Card({ data }) {
   const getRivew = (value) => {
     const a = [];
     for (let i = 0; i < value; i++) {
-      a.push(<img key={i} className="w-[20px] h-[20px]" src={star} />);
+      a.push(<img key={i} className="w-[16px] h-[16px]" src={star} />);
     }
     return a;
   };
@@ -16,7 +16,7 @@ function Card({ data }) {
         navigate(`/home/${data.id}`,{state:data});
       }}
       key={data.id}
-      className="bg-[#F8F8F8] p-3 rounded-lg"
+      className="bg-[#F8F8F8] overflow-hidden pt-1 sm:pt-0 rounded-lg flex flex-col items-center"
     >
       <div>
         <img src={data.thumbnail} alt="" />

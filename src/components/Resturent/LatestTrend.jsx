@@ -11,7 +11,7 @@ function LatestTrend() {
         <h1 className="text-[28px] text-center sm:text-start md:text-[32px] leading-[35px] md:leading-[40px] font-extrabold font-Lexend">
           The latest trends
         </h1>
-        <div className="py-5 mt-3 self-center grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <div className="py-5 mt-3 self-center grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {resturentData &&
             resturentData.map((data) => <Card key={data.id} data={data} />)}
         </div>
