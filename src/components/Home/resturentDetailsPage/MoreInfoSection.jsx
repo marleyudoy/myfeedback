@@ -8,7 +8,7 @@ import Browser from "../../../assets/icons/browse.png";
 
 function MoreInfoSection({state}) {
   return (
-    <div className="container flex flex-col gap-5 md:flex-row justify-around mt-5 md:mt-8 lg:mt-10 py-5">
+    <div className="container pb-10 flex flex-col gap-5 md:flex-row justify-around mt-5 md:mt-8 lg:mt-10 py-5">
     <div className="">
       <h1 className="text-[28px] md:text-[34px] font-bold">
         More informations
