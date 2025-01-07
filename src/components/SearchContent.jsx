@@ -63,7 +63,7 @@ function SearchContent() {
               </h1>
               <span
                 onClick={() => setIsSort(!isSort)}
-                className="flex relative items-center justify-center gap-2 border border-gray-900 w-[80px] px-4 h-[40px]  rounded-full"
+                className="flex cursor-pointer relative items-center justify-center gap-2 border border-gray-900 w-[80px] px-4 h-[40px]  rounded-full"
               >
                 <img className="w-[20px]" src={sortImg} alt="" /> Sort
                 {isSort && <Sort onSort={handleSort} />}
