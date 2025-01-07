@@ -8,7 +8,6 @@ import Discover from "./Discover";
 
 function ResturentDetails() {
   const { state } = useLocation();
-  // console.log(state);
   return (
     <>
       <section className="py-5">

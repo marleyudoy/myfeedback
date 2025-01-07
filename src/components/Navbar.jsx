@@ -8,8 +8,7 @@ import { useState } from "react";
 function Navbar() {
   const [searchName, setSearchName] = useState("");
   const [selectCountry, setSelectCountry] = useState("");
-
-
+  const navigate = useNavigate();
   const handleSearch = (e) => {
     const value = e.target.value.toLowerCase();
     setSearchName(value);
@@ -20,11 +19,11 @@ function Navbar() {
   };
 
   const handleSubmit = () => {
-    if (searchName === "" && selectCountry === "") {
-      alert("search or country is empty");
-      return;
-    }
-
+    navigate("/search", {
+      state: { countryName: selectCountry, title: searchName },
+    });
+    setSelectCountry("");
+    setSearchName("");
   };
 
   return (
@@ -49,11 +48,9 @@ function Navbar() {
             className="outline-none text-secondary_color2 w-[100px] md:w-auto"
             name="countryName"
             id="country"
-            value={selectCountry || "singapure"}
             onChange={handleSelect}
-            placeholder="singapure"
           >
-            <option value="singapure">Singapure</option>
+            <option value="singapour">Singapour</option>
             <option value="dubai">Dubai</option>
           </select>
           <button

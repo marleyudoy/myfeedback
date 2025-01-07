@@ -8,7 +8,9 @@ function Discover() {
   const discoverData = getDataByRating(4);
   return (
     <section>
+
       <div className="container">
+        <h1 className="text-center md:text-left text-[28px] md:text-[32px] font-bold font-Lexend">Also discover...</h1>
         <SwipperSlider
           breakPoint={{
             540: {

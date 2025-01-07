@@ -2,7 +2,7 @@ import { useNavigate } from "react-router";
 import star from "../assets/icons/star.png";
 import Star from "./Star";
 
-function Card({ data }) {
+function Card({ data, flexRow }) {
   const navigate = useNavigate();
   return (
     <div
@@ -10,10 +10,12 @@ function Card({ data }) {
         navigate(`/home/${data.id}`, { state: data });
       }}
       key={data.id}
-      className="bg-[#F8F8F8] hover:cursor-pointer overflow-hidden pt-1 sm:pt-0 rounded-lg flex flex-col items-center"
+      className={`bg-[#F8F8F8] hover:cursor-pointer overflow-hidden pt-1 sm:pt-0 rounded-lg flex ${
+        flexRow ? "flex-col md:flex-row gap-4  border-b" : "flex-col"
+      } items-center`}
     >
       <div>
-        <img src={data.thumbnail} alt="" />
+        <img className={`${flexRow && "w-full h-full md:w-[150px] md:h-[140px]"}`} src={data.thumbnail} alt="" />
       </div>
       <div className="px-2">
         <h3 className="text-[18px] md:text-[22px] font-Lexend font-bold py-2">
@@ -27,7 +29,7 @@ function Card({ data }) {
             <Star starCount={data.ratting.rate} />
             <p className="ml-2 text-secondary_color2">
               <span className="text-sm  text-black font-extrabold">
-                {data.ratting.rate}{" "}
+                {data.ratting.rate}.0
               </span>
               ( {data.ratting.count} reviews )
             </p>

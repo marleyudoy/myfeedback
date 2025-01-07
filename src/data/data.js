@@ -27,7 +27,7 @@ import tiktok from "../assets/icons/tiktok.png";
 import instagram from "../assets/icons/instagram.png";
 import whatsapp from "../assets/icons/whatsapp.png";
 
-const resturentList = [
+export const resturentList = [
   {
     id: 1,
     name: "Bella italia",
@@ -1554,6 +1554,1532 @@ const resturentList = [
       },
     ],
   },
+  {
+    id: 16,
+    name: "Bella italia",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image1,
+    ratting: {
+      rate: 5.0,
+      count: 400,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 17,
+    name: "Bottega",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image2,
+    ratting: {
+      rate: 5.0,
+      count: 790,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 18,
+    name: "Little Shucker",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image3,
+    ratting: {
+      rate: 5.0,
+      count: 790,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 19,
+    name: "Marafuku Ramen",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image4,
+    ratting: {
+      rate: 3.5,
+      count: 87,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 20,
+    name: "Arabia Nights",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image5,
+    ratting: {
+      rate: 3.5,
+      count: 250,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 21,
+    name: "Lokma",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image6,
+    ratting: {
+      rate: 5.0,
+      count: 540,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 22,
+    name: "The snug",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image7,
+    ratting: {
+      rate: 4.5,
+      count: 640,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 23,
+    name: "Starbelly",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image8,
+    ratting: {
+      rate: 5.0,
+      count: 876,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 24,
+    name: "Iori",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image9,
+    ratting: {
+      rate: 3.5,
+      count: 334,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 25,
+    name: "Ngalley",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image10,
+    ratting: {
+      rate: 5.0,
+      count: 253,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 26,
+    name: "Diogonal",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image11,
+    ratting: {
+      rate: 4.5,
+      count: 37,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Singapour, Bishan",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 27,
+    name: "Kitoko",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image12,
+    ratting: {
+      rate: 5.0,
+      count: 453,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Dubai",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 28,
+    name: "The melt",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image13,
+    ratting: {
+      rate: 4.5,
+      count: 393,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Dubai",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
+  {
+    id: 29,
+    name: "The melt",
+    description:
+      "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    thumbnail: image14,
+    ratting: {
+      rate: 4.4,
+      count: 654,
+    },
+    time: "7j/7, 08:00 - 22:00",
+    location: "Dubai",
+    phone: "+847 87 37 29 01",
+    web: "www.bellaitalia.com",
+    contact: [facebook, tiktok, instagram, whatsapp],
+    images: [img3, img1, img2, img4, img5],
+    reviews: [
+      {
+        userName: "Wei Jie",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Mei Ling",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Xiong",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Takashimaya",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Ming Wei",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 2,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Xin Yi",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Zhi Hao",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 5,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Li Hua",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Si Ying",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 3,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+      {
+        userName: "Wei Ting",
+        description:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+        userLocation: "Singapore, Orchad boulevard",
+        rat: 4,
+        date: "29/11/2023",
+        message:
+          "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+      },
+    ],
+  },
 ];
 
 function getAllData() {
@@ -1568,17 +3094,6 @@ function getDataByRating(value) {
   });
   return filteredData;
 }
-function getDataByNameAndCountry(value) {
-  const { name, country: countryName } = value;
-  const filteredData = resturentList.filter((data) => {
-    if (
-      data.location.includes(countryName) ||
-      data.name.toLocaleLowerCase().includes(name)
-    ) {
-      return data;
-    }
-  });
-  return filteredData;
-}
 
-export { getAllData, getDataByRating, getDataByNameAndCountry };
+
+export { getAllData, getDataByRating};
