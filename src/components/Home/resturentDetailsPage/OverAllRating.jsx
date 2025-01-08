@@ -1,6 +1,6 @@
 import Star from "../../../Golbal/Star";
 import Ratelogo from "../../../assets/ratelogo.png";
-import Raterange from "../../../assets/raterange.png";
+import Raterange from "../../../assets/rateRange.png";
 
 function OverAllRating() {
   return (
